@@ -1,14 +1,14 @@
 # Sudoku solver
 
 ## Example notebook
-See the solver example in the [notebook](notebook.ipynb).
+See the solver example in the [notebook](https://nbviewer.jupyter.org/github/mikaelahonen/sudoku-solver/blob/master/notebook.ipynb).
 
 ## Code structure
 [config.py](config.py). Set constant variables.
 
 [module.py](module.py). Functions needed for sudoku solving.
 
-[notebook.ipynb](notebook.ipynb). Combine the functions to solve sudokus. 
+[notebook.ipynb](notebook.ipynb). Combine the functions to solve sudokus.
 
 ## Approaching the sudoku problem
 So far can solve simple sudokus where you can reason the number for each cell with full certainty.
